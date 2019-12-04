@@ -1,4 +1,4 @@
-(defproject com.atomist/lacinia-apollo-federation "0.1.0-SNAPSHOT"
+(defproject com.atomist/lacinia-apollo-federation "0.1.0"
   :description "Apollo Federation helper for Lacinia"
   :url "https://github.com/atomisthq/lacinia-apollo-federation"
   :license {:name "Eclipse Public License"
